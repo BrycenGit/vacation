@@ -1,0 +1,19 @@
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: salmon;
+}
+
+li {
+  font-style: italic;
+}
+
+body {
+  background-color: rgb(139, 139, 139);
+  text-align: center;
+}
+
+
+
+/* .jumbotron p h1 {
+  text-align: center;
+} */
